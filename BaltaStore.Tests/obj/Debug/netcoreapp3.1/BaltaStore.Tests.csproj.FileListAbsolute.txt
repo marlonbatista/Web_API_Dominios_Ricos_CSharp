@@ -90,3 +90,5 @@ C:\CursosBalta\BaltaStore\BaltaStore.Tests\obj\Debug\netcoreapp3.1\BaltaStore.Te
 C:\CursosBalta\BaltaStore\BaltaStore.Tests\obj\Debug\netcoreapp3.1\BaltaStore.Tests.csproj.CopyComplete
 C:\CursosBalta\BaltaStore\BaltaStore.Tests\obj\Debug\netcoreapp3.1\BaltaStore.Tests.dll
 C:\CursosBalta\BaltaStore\BaltaStore.Tests\obj\Debug\netcoreapp3.1\BaltaStore.Tests.pdb
+C:\CursosBalta\BaltaStore\BaltaStore.Tests\bin\Debug\netcoreapp3.1\BaltaStore.Domain.dll
+C:\CursosBalta\BaltaStore\BaltaStore.Tests\bin\Debug\netcoreapp3.1\BaltaStore.Domain.pdb

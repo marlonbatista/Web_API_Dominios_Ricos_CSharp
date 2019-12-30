@@ -14,7 +14,7 @@ namespace BaltaStore.Domain.StoreContext.Entites
         public Customer(
             Name name,
             Document document,
-            string email,
+            Email email,
             string phone)
         {
             Name = name;
@@ -27,7 +27,7 @@ namespace BaltaStore.Domain.StoreContext.Entites
 
         public Name Name { get; set; }
         public Document Document { get; private set; }
-        public string Email { get; private set; }
+        public Email Email { get; private set; }
         public string Phone { get; private set; }
                                                     //3.retornando a lista de endereços
         public IReadOnlyCollection<Address> Addresses => _addresses.ToArray();
