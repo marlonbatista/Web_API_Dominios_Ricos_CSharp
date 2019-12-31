@@ -30,13 +30,13 @@ namespace BaltaStore.Domain.StoreContext.Entites
         public IReadOnlyCollection<Delivery> Deliveries => _deliverys.ToArray();
 
         //Métodos para adicionar pedidos
-        public void AddItem(OrderItem item)
-        {
-            //Adicionando Pedido
-            _items.Add(item);
-            //Valida o item
 
-            //Adiciona ao pedido
+        public void AddItem(Product product, decimal quantaty)
+        {
+            if(quantaty > product.QuantityOnHand)
+                AddNotification("OrderItem", $"Produto {product.Title} não tem {quantaty} em estoque.");
+            var item =  new OrderItem(product, quantaty);
+            _items.Add(item);
         }
 
         //Criar um Pedido
