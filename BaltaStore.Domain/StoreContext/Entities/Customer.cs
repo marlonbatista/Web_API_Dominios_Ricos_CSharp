@@ -2,10 +2,11 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using BaltaStore.Domain.StoreContext.ValueObjects;
+using FluentValidator;
 
 namespace BaltaStore.Domain.StoreContext.Entites
 {
-    public class Customer
+    public class Customer : Notifiable
     {
         // 2. Desta forma é preciso criar uma nova privada lista
         //Para adicionar os endereços

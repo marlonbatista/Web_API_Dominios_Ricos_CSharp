@@ -25,13 +25,16 @@ namespace BaltaStore.Tests
             var c = new Customer(name, document, email, "126578965214");
 
             var order = new Order(c);
-            order.AddItem(new OrderItem(mouse, 5));
-            order.AddItem(new OrderItem(teclado, 5));
-            order.AddItem(new OrderItem(impressora, 5));
-            order.AddItem(new OrderItem(cadeira, 5));
+            //order.AddItem(new OrderItem(mouse, 5));
+            //order.AddItem(new OrderItem(teclado, 5));
+            //order.AddItem(new OrderItem(impressora, 5));
+            //order.AddItem(new OrderItem(cadeira, 5));
             
             //Realizei o pedido
              order.Place();
+
+            //Verificar se o pedido é válido 
+            var valid = order.IsValid;
 
             //Simular Pagamento
             order.Pay();

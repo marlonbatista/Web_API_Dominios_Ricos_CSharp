@@ -186,11 +186,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\CursosBalta\\BaltaStore\\BaltaStore.Shared\\BaltaStore.Shared.csproj",
+      "projectUniqueName": "C:\\CursosBalta\\BaltaStore\\Web_API_Dominios_Ricos_CSharp\\BaltaStore.Shared\\BaltaStore.Shared.csproj",
       "projectName": "BaltaStore.Shared",
-      "projectPath": "C:\\CursosBalta\\BaltaStore\\BaltaStore.Shared\\BaltaStore.Shared.csproj",
+      "projectPath": "C:\\CursosBalta\\BaltaStore\\Web_API_Dominios_Ricos_CSharp\\BaltaStore.Shared\\BaltaStore.Shared.csproj",
       "packagesPath": "C:\\Users\\marlo\\.nuget\\packages\\",
-      "outputPath": "C:\\CursosBalta\\BaltaStore\\BaltaStore.Shared\\obj\\",
+      "outputPath": "C:\\CursosBalta\\BaltaStore\\Web_API_Dominios_Ricos_CSharp\\BaltaStore.Shared\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

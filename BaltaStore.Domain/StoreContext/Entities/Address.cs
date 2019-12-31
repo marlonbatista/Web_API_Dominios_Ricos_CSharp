@@ -1,10 +1,11 @@
 using System;
 using BaltaStore.Domain.StoreContext.Enums;
 using BaltaStore.Domain.StoreContext.ValueObjects;
+using FluentValidator;
 
 namespace BaltaStore.Domain.StoreContext.Entites
 {
-    public class Address
+    public class Address : Notifiable
     {
         public Address(
             string street,

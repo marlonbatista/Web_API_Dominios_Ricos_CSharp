@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CursosBalta\\BaltaStore\\BaltaStore.Infra\\BaltaStore.Infra.csproj": {}
+    "C:\\CursosBalta\\BaltaStore\\Web_API_Dominios_Ricos_CSharp\\BaltaStore.Infra\\BaltaStore.Infra.csproj": {}
   },
   "projects": {
-    "C:\\CursosBalta\\BaltaStore\\BaltaStore.Infra\\BaltaStore.Infra.csproj": {
+    "C:\\CursosBalta\\BaltaStore\\Web_API_Dominios_Ricos_CSharp\\BaltaStore.Infra\\BaltaStore.Infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CursosBalta\\BaltaStore\\BaltaStore.Infra\\BaltaStore.Infra.csproj",
+        "projectUniqueName": "C:\\CursosBalta\\BaltaStore\\Web_API_Dominios_Ricos_CSharp\\BaltaStore.Infra\\BaltaStore.Infra.csproj",
         "projectName": "BaltaStore.Infra",
-        "projectPath": "C:\\CursosBalta\\BaltaStore\\BaltaStore.Infra\\BaltaStore.Infra.csproj",
+        "projectPath": "C:\\CursosBalta\\BaltaStore\\Web_API_Dominios_Ricos_CSharp\\BaltaStore.Infra\\BaltaStore.Infra.csproj",
         "packagesPath": "C:\\Users\\marlo\\.nuget\\packages\\",
-        "outputPath": "C:\\CursosBalta\\BaltaStore\\BaltaStore.Infra\\obj\\",
+        "outputPath": "C:\\CursosBalta\\BaltaStore\\Web_API_Dominios_Ricos_CSharp\\BaltaStore.Infra\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

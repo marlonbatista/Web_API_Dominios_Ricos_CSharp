@@ -1,8 +1,9 @@
+using FluentValidator;
 using System;
 
 namespace BaltaStore.Domain.StoreContext.Entites
 {
-    public class Product
+    public class Product : Notifiable
     {
         public Product(
             string title,
