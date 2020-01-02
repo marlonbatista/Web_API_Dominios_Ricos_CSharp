@@ -30,6 +30,7 @@ namespace BaltaStore.Tests
             _monitor = new Product("Monitor Game", "Monitor Game", "Monitor.jpg", 100M, 10);
 
         }
+
         //1º Teste se consigo criar um novo pedido
         [TestMethod]
         public void ShouldCreatedOrderWhenValid()

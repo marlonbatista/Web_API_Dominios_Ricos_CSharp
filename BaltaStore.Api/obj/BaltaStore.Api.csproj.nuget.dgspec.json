@@ -1,25 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CursosBalta\\BaltaStore\\Web_API_Dominios_Ricos_CSharp\\BaltaStore.Api\\BaltaStore.Api.csproj": {}
+    "C:\\Users\\marlon.batista\\Documents\\Cursos\\BaltaWebApi\\Web_API_Dominios_Ricos_CSharp\\BaltaStore.Api\\BaltaStore.Api.csproj": {}
   },
   "projects": {
-    "C:\\CursosBalta\\BaltaStore\\Web_API_Dominios_Ricos_CSharp\\BaltaStore.Api\\BaltaStore.Api.csproj": {
+    "C:\\Users\\marlon.batista\\Documents\\Cursos\\BaltaWebApi\\Web_API_Dominios_Ricos_CSharp\\BaltaStore.Api\\BaltaStore.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CursosBalta\\BaltaStore\\Web_API_Dominios_Ricos_CSharp\\BaltaStore.Api\\BaltaStore.Api.csproj",
+        "projectUniqueName": "C:\\Users\\marlon.batista\\Documents\\Cursos\\BaltaWebApi\\Web_API_Dominios_Ricos_CSharp\\BaltaStore.Api\\BaltaStore.Api.csproj",
         "projectName": "BaltaStore.Api",
-        "projectPath": "C:\\CursosBalta\\BaltaStore\\Web_API_Dominios_Ricos_CSharp\\BaltaStore.Api\\BaltaStore.Api.csproj",
-        "packagesPath": "C:\\Users\\marlo\\.nuget\\packages\\",
-        "outputPath": "C:\\CursosBalta\\BaltaStore\\Web_API_Dominios_Ricos_CSharp\\BaltaStore.Api\\obj\\",
+        "projectPath": "C:\\Users\\marlon.batista\\Documents\\Cursos\\BaltaWebApi\\Web_API_Dominios_Ricos_CSharp\\BaltaStore.Api\\BaltaStore.Api.csproj",
+        "packagesPath": "C:\\Users\\marlon.batista\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\marlon.batista\\Documents\\Cursos\\BaltaWebApi\\Web_API_Dominios_Ricos_CSharp\\BaltaStore.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\marlo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\marlon.batista\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"

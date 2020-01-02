@@ -14,3 +14,8 @@ C:\CursosBalta\BaltaStore\Web_API_Dominios_Ricos_CSharp\BaltaStore.Domain\obj\De
 C:\CursosBalta\BaltaStore\Web_API_Dominios_Ricos_CSharp\BaltaStore.Domain\obj\Debug\netstandard2.0\BaltaStore.Domain.AssemblyInfo.cs
 C:\CursosBalta\BaltaStore\Web_API_Dominios_Ricos_CSharp\BaltaStore.Domain\obj\Debug\netstandard2.0\BaltaStore.Domain.dll
 C:\CursosBalta\BaltaStore\Web_API_Dominios_Ricos_CSharp\BaltaStore.Domain\obj\Debug\netstandard2.0\BaltaStore.Domain.pdb
+C:\Users\marlon.batista\Documents\Cursos\BaltaWebApi\Web_API_Dominios_Ricos_CSharp\BaltaStore.Domain\obj\Debug\netstandard2.0\BaltaStore.Domain.csprojAssemblyReference.cache
+C:\Users\marlon.batista\Documents\Cursos\BaltaWebApi\Web_API_Dominios_Ricos_CSharp\BaltaStore.Domain\obj\Debug\netstandard2.0\BaltaStore.Domain.AssemblyInfoInputs.cache
+C:\Users\marlon.batista\Documents\Cursos\BaltaWebApi\Web_API_Dominios_Ricos_CSharp\BaltaStore.Domain\obj\Debug\netstandard2.0\BaltaStore.Domain.AssemblyInfo.cs
+C:\Users\marlon.batista\Documents\Cursos\BaltaWebApi\Web_API_Dominios_Ricos_CSharp\BaltaStore.Domain\obj\Debug\netstandard2.0\BaltaStore.Domain.dll
+C:\Users\marlon.batista\Documents\Cursos\BaltaWebApi\Web_API_Dominios_Ricos_CSharp\BaltaStore.Domain\obj\Debug\netstandard2.0\BaltaStore.Domain.pdb
