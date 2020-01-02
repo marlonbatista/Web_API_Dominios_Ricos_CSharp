@@ -3,6 +3,7 @@ using BaltaStore.Domain.StoreContext.Enums;
 
 namespace BaltaStore.Domain.StoreContext.CustomerCommands.inputs
 {
+    // Commands de AddAdress
     public class AddAdressCommand 
     {
         public Guid Id { get; set; }
