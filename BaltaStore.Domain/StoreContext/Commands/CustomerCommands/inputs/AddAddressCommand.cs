@@ -1,7 +1,7 @@
 using System;
 using BaltaStore.Domain.StoreContext.Enums;
 
-namespace BaltaStore.Domain.StoreContext.CustomerCommands.inputs
+namespace BaltaStore.Domain.StoreContext.CustomerCommands.Inputs
 {
     // Commands de AddAdress
     public class AddAdressCommand 
