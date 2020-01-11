@@ -16,6 +16,7 @@ namespace BaltaStore.Domain.StoreContext.OrderCommands.Inputs
             AddNotifications(new ValidationContract()
                 .HasLen(Product.ToString(), 36, "Product", "Identificador do produto é inválido")
                 .IsNotNull(Quantaty, "Quantaty", "A quantidade não pode ser nula")
+                .IsGreaterThan(Quantaty,0,"Quantaty","A quantidade deve ser acima de 0")
                 
                 );
             return IsValid;

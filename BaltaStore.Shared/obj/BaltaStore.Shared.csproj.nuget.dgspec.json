@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CursosBalta\\BaltaStore\\web_api_dominios_ricos_csharp\\BaltaStore.Shared\\BaltaStore.Shared.csproj": {}
+    "C:\\CursosBalta\\BaltaStore\\Web_API_Dominios_Ricos_CSharp\\BaltaStore.Shared\\BaltaStore.Shared.csproj": {}
   },
   "projects": {
-    "C:\\CursosBalta\\BaltaStore\\web_api_dominios_ricos_csharp\\BaltaStore.Shared\\BaltaStore.Shared.csproj": {
+    "C:\\CursosBalta\\BaltaStore\\Web_API_Dominios_Ricos_CSharp\\BaltaStore.Shared\\BaltaStore.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CursosBalta\\BaltaStore\\web_api_dominios_ricos_csharp\\BaltaStore.Shared\\BaltaStore.Shared.csproj",
+        "projectUniqueName": "C:\\CursosBalta\\BaltaStore\\Web_API_Dominios_Ricos_CSharp\\BaltaStore.Shared\\BaltaStore.Shared.csproj",
         "projectName": "BaltaStore.Shared",
-        "projectPath": "C:\\CursosBalta\\BaltaStore\\web_api_dominios_ricos_csharp\\BaltaStore.Shared\\BaltaStore.Shared.csproj",
+        "projectPath": "C:\\CursosBalta\\BaltaStore\\Web_API_Dominios_Ricos_CSharp\\BaltaStore.Shared\\BaltaStore.Shared.csproj",
         "packagesPath": "C:\\Users\\marlo\\.nuget\\packages\\",
-        "outputPath": "C:\\CursosBalta\\BaltaStore\\web_api_dominios_ricos_csharp\\BaltaStore.Shared\\obj\\",
+        "outputPath": "C:\\CursosBalta\\BaltaStore\\Web_API_Dominios_Ricos_CSharp\\BaltaStore.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
