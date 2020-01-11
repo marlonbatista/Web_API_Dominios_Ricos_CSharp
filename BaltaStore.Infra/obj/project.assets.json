@@ -180,24 +180,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\marlon.batista\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\marlo\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marlon.batista\\Documents\\Cursos\\BaltaWebApi\\Web_API_Dominios_Ricos_CSharp\\BaltaStore.Infra\\BaltaStore.Infra.csproj",
+      "projectUniqueName": "C:\\CursosBalta\\BaltaStore\\Web_API_Dominios_Ricos_CSharp\\BaltaStore.Infra\\BaltaStore.Infra.csproj",
       "projectName": "BaltaStore.Infra",
-      "projectPath": "C:\\Users\\marlon.batista\\Documents\\Cursos\\BaltaWebApi\\Web_API_Dominios_Ricos_CSharp\\BaltaStore.Infra\\BaltaStore.Infra.csproj",
-      "packagesPath": "C:\\Users\\marlon.batista\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marlon.batista\\Documents\\Cursos\\BaltaWebApi\\Web_API_Dominios_Ricos_CSharp\\BaltaStore.Infra\\obj\\",
+      "projectPath": "C:\\CursosBalta\\BaltaStore\\Web_API_Dominios_Ricos_CSharp\\BaltaStore.Infra\\BaltaStore.Infra.csproj",
+      "packagesPath": "C:\\Users\\marlo\\.nuget\\packages\\",
+      "outputPath": "C:\\CursosBalta\\BaltaStore\\Web_API_Dominios_Ricos_CSharp\\BaltaStore.Infra\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\marlon.batista\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\marlo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"

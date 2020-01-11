@@ -189,3 +189,5 @@ C:\CursosBalta\BaltaStore\Web_API_Dominios_Ricos_CSharp\BaltaStore.Tests\obj\Deb
 C:\CursosBalta\BaltaStore\Web_API_Dominios_Ricos_CSharp\BaltaStore.Tests\obj\Debug\netcoreapp3.1\BaltaStore.Tests.pdb
 C:\Users\marlon.batista\Documents\Cursos\BaltaWebApi\Web_API_Dominios_Ricos_CSharp\BaltaStore.Tests\obj\Debug\netcoreapp3.1\BaltaStore.Tests.dll
 C:\Users\marlon.batista\Documents\Cursos\BaltaWebApi\Web_API_Dominios_Ricos_CSharp\BaltaStore.Tests\obj\Debug\netcoreapp3.1\BaltaStore.Tests.pdb
+C:\CursosBalta\BaltaStore\Web_API_Dominios_Ricos_CSharp\BaltaStore.Tests\bin\Debug\netcoreapp3.1\BaltaStore.Shared.dll
+C:\CursosBalta\BaltaStore\Web_API_Dominios_Ricos_CSharp\BaltaStore.Tests\bin\Debug\netcoreapp3.1\BaltaStore.Shared.pdb

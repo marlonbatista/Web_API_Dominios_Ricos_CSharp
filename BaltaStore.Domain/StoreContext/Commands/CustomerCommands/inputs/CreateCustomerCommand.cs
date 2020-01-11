@@ -1,11 +1,12 @@
 
 
+using BaltaStore.Shared.Commands;
 using FluentValidator;
 using FluentValidator.Validation;
 
 namespace BaltaStore.Domain.StoreContext.CustomerCommands.Inputs
 {
-    public class CreatedCustomerCommand : Notifiable
+    public class CreateCustomerCommand : Notifiable, ICommands
     {
         // Aqui é onde é feita a estruturação do json
         public string FirstName { get; set; }
@@ -25,7 +26,7 @@ namespace BaltaStore.Domain.StoreContext.CustomerCommands.Inputs
                 .IsEmail(Email, "Email", "O E-mail é inválido")
                 .HasLen(Document, 11, "Document", "CPF inválido")
                 );
-            return Valid();
+            return IsValid;
         }
     }
 

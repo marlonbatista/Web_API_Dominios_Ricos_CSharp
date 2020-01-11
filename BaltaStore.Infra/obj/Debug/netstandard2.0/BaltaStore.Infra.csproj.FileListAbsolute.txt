@@ -14,3 +14,11 @@ C:\Users\marlon.batista\Documents\Cursos\BaltaWebApi\Web_API_Dominios_Ricos_CSha
 C:\Users\marlon.batista\Documents\Cursos\BaltaWebApi\Web_API_Dominios_Ricos_CSharp\BaltaStore.Infra\obj\Debug\netstandard2.0\BaltaStore.Infra.AssemblyInfo.cs
 C:\Users\marlon.batista\Documents\Cursos\BaltaWebApi\Web_API_Dominios_Ricos_CSharp\BaltaStore.Infra\obj\Debug\netstandard2.0\BaltaStore.Infra.dll
 C:\Users\marlon.batista\Documents\Cursos\BaltaWebApi\Web_API_Dominios_Ricos_CSharp\BaltaStore.Infra\obj\Debug\netstandard2.0\BaltaStore.Infra.pdb
+C:\CursosBalta\BaltaStore\Web_API_Dominios_Ricos_CSharp\BaltaStore.Infra\bin\Debug\netstandard2.0\BaltaStore.Infra.deps.json
+C:\CursosBalta\BaltaStore\Web_API_Dominios_Ricos_CSharp\BaltaStore.Infra\bin\Debug\netstandard2.0\BaltaStore.Infra.dll
+C:\CursosBalta\BaltaStore\Web_API_Dominios_Ricos_CSharp\BaltaStore.Infra\bin\Debug\netstandard2.0\BaltaStore.Infra.pdb
+C:\CursosBalta\BaltaStore\Web_API_Dominios_Ricos_CSharp\BaltaStore.Infra\obj\Debug\netstandard2.0\BaltaStore.Infra.csprojAssemblyReference.cache
+C:\CursosBalta\BaltaStore\Web_API_Dominios_Ricos_CSharp\BaltaStore.Infra\obj\Debug\netstandard2.0\BaltaStore.Infra.AssemblyInfoInputs.cache
+C:\CursosBalta\BaltaStore\Web_API_Dominios_Ricos_CSharp\BaltaStore.Infra\obj\Debug\netstandard2.0\BaltaStore.Infra.AssemblyInfo.cs
+C:\CursosBalta\BaltaStore\Web_API_Dominios_Ricos_CSharp\BaltaStore.Infra\obj\Debug\netstandard2.0\BaltaStore.Infra.dll
+C:\CursosBalta\BaltaStore\Web_API_Dominios_Ricos_CSharp\BaltaStore.Infra\obj\Debug\netstandard2.0\BaltaStore.Infra.pdb
